@@ -21,7 +21,7 @@
 
 ## 📁 使用方式
 
-1. 创建一个名为 `txt` 文档，如 `input.txt` 内容格式如下：
+1. 创建一个名为 `txt` 文档，如 `input.txt` ，内容格式如下：
 
     ```
     百度 https://www.baidu.com
