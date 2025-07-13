@@ -1,6 +1,6 @@
 # WebShortcut Maker
 
-此项目为[windows-shortcut-maker]([https://example.com](https://github.com/zrtnb6/windows-shortcut-maker))的延伸
+此项目为[windows-shortcut-maker](https://github.com/zrtnb6/windows-shortcut-maker)的延伸
 
 一个简单实用的 Windows 图形界面工具，支持**批量生成网址快捷方式**（.url 文件），方便收藏管理网页。 
 
