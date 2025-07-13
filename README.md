@@ -1,8 +1,10 @@
 # WebShortcut Maker
 
-一个简单实用的 Windows 图形界面工具，支持**批量生成网址快捷方式**（.url 文件），方便收藏管理网页。  
+此项目为[windows-shortcut-maker]([https://example.com](https://github.com/zrtnb6/windows-shortcut-maker))的延伸
 
-适合办公人员、教育工作者、收藏爱好者等快速制作网页链接入口。
+一个简单实用的 Windows 图形界面工具，支持**批量生成网址快捷方式**（.url 文件），方便收藏管理网页。 
+
+适合办公人员、学生、收藏爱好者等快速制作网页链接入口
 
 ---
 
