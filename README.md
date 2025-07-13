@@ -29,7 +29,7 @@
     哔哩哔哩 https://bilibili.com
     ```
 
-2. 打开程序 `WebShortcut_Maker.exe`
+2. 打开程序 `WebShortcut-GUI.exe`
 3. 选择网址文件路径和输出路径
 4. 点击“开始生成”，即可在输出目录下看到 `.url` 快捷方式文件
 
