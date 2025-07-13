@@ -16,9 +16,10 @@ rd /s /q dist >nul 2>&1
 rd /s /q __pycache__ >nul 2>&1
 del /q %NAME%.spec >nul 2>&1
 
-:: 安装 pyinstaller（如果尚未安装）
-echo 正在检查并安装 pyinstaller...
+:: 安装打包依赖模块
+echo 正在安装必要的模块...
 pip install pyinstaller
+pip install tkinterdnd2
 
 :: 执行打包
 echo.
